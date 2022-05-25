@@ -1,6 +1,8 @@
 
 # Deuteron Solution
 
+The final write-up of the project can be found [here in the repository](https://github.com/eli-temanson/Nuc1-Deuteron-Project/blob/main/Nuclear_Physcs_1_Project.pdf).
+
 ## installation
 ### get julia
 
